@@ -12,25 +12,36 @@ To impoort, download the file, go to "Data management" in the menu and double cl
 ## Campaign Progress
 Here’s a summary of your progress so far:
 
-### Completed Scenarios
-Main: 1, 2, 3, 4, 5, 6, 7, ~~8~~ 9
-Side: 21
-### Available Scenarios
-Main: 10
-Side: 24 and 25
+### Main quest scenarios
+- [x] [Roadside Ambush (Scenario 1)](#roadside-ambush-scenario-1)
+- [x] [A Hole in the Wall (Scenario 2)](#a-hole-in-the-wall-scenario-2)
+- [x] [The Black Ship (Scenario 3)](#the-black-ship-scenario-3)
+- [x] [A Ritual In Stone (Scenario 4)](#a-ritual-in-stone-scenario-4)
+- [x] [A Deeper Understanding (Scenario 5)](#a-deeper-understanding-scenario-5)
+- [x] [Corrupted Research (Scenario 6)](#corrupted-research-scenario-6)
+- [x] [Sunken Tumor (Scenario 7)](#sunken-tumor-scenario-7)
+- [x] ~~[Hidden Tumor (Scenario 8)](#hidden-tumor-scenario-8)~~
+- [x] [Explosive Evolution (Scenario 9)](#explosive-evolution-scenario-9)
+- [ ] The Gauntlet (Scenario 10)
+
+### Side quests scenarios
+- [x] [The Edge of Darkness (Scenario 21)](#the-edge-of-darkness-scenario-21)
+- [ ] Warding the Void (Scenario 24)
+- [ ] The Greatest job in the World (Scenario 25)
 
 ## Character Details 
-| Name      |     Class     |           Player |
-| :-------- | :-----------: | ---------------: |
-| Carnation | Demolitionist |              3dO |
-| Wagner    |   Red Guard   | Legbegbe+Mumetal |
-| Adeptus   |    Hatchet    |             Gedo |
-| Echo      |  Voidwarden   |           Phillz |
+| Name      |         Class         |           Player |
+| :-------- | :-------------------: | ---------------: |
+| Carnation | Quatryl Demolitionist |              3dO |
+| Wagner    |   Valrath Red Guard   | Legbegbe+Mumetal |
+| Adeptus   |     Inox Hatchet      |             Gedo |
+| Echo      |   Human Voidwarden    |           Phillz |
 
 ## Story so far
 
 ### Roadside Ambush (Scenario 1)
 - You are part of a group of mercenaries, known as the “Jaws of the Lion”.
+- There have been mystery disappearances in the city of Gloomhaven, and you have been hired to investigate.
 - On your way back from an unsuccessful mission to find a missing blacksmith, you are ambushed by Vermlings, small and vicious creatures.
 - The Vermlings’ proximity to the city is unusual, raising questions about their boldness.
 - You are weary from your journey and the ambush, but you decide to investigate.
@@ -68,3 +79,39 @@ Side: 24 and 25
 - After defeating the Blood Tumor it explodes into a shower of blood and guts, one of the Zealots threatens that "The Blood God will consume the city".
 - You try to interrogate him about Roland, but he is already dead, Instead you grab a chunk of the Blood Tumor and bring it to the University for analysis.
 
+### Corrupted Research (Scenario 6)
+- You take the chunk of the Blood Tumor to Professor Haltrip, an old **Quatryl** at the University.
+- You explain all you know about the Vermling, black sludge, earthquakes, and the tumor, and that there are other tumors out there.
+- He runs test to find out what the tumor is made of so he can find a way to track the others
+- Something goes horrible wrong in the lab, the growths spread and kill all the lab assistants, and transforms the rats into monstrosities.
+- You destroy them before they spread any more, and Halstrip tells you that he has found a way to track the tumors using a stone that glows grean when near them.
+- You scour the streets of the city, trying to locate the growths and pinpoint 2 locations, an abandoned set of buildings in the Sinking Market and a warehouse down at the Old Docks.
+- With any luck, you'll find Roland.
+
+### Sunken Tumor (Scenario 7)
+- You encounter more Vermlings and Zealots at 'the Sinking Market', and you fight your way through them.
+- Then you find a door that leads to another Blood Tumor.
+- After defeating the Blood Tumor, you burn the remains to ensure it never plagues the city again.
+
+### Hidden Tumor (Scenario 8)
+- As you finish at the Sinking Market, you see the other blood tumor location go up in flames.
+- You were too late, the explosion is just the beginnins, you make your way to the Old Docks ASAP.
+
+### Explosive Evolution (Scenario 9)
+- You arrive at the scene of the explosion, and the tumor has evolved to a Blood Horror.
+- The Blood Horror cannot be damaged until you kill all the Zealots, when Zealots die, they can be revived as "Living Corpses".
+- After defeating the Zealots, you are done, as far as you can tell. 
+- You have destroyed the creatures of Blood that plagued the city, and have thwarted the group behind the disappearances.
+- You can finally respond to the widow, and update the city guards with all you have learned.
+- They can mop up the rest of this stupid cult, and you can go back to actually getting paid to kill things.
+- As you walk toward the Sleeping Lion, dreaming of a hot bath, you remember a rumor about someone along the Hook Coast offering Gold to mercenaries, who would come and fight in his "gauntlet".
+
+## Side Quests
+
+### Agents of Chaos (Scenario 21)
+- You follow the directions of a merchant to some small warehouses in the district.
+- As you approach you have a strong feeling that something is wrong.
+- You encounter Chaos Demons and the more you progress the worse the sensation gets.
+- The pain throbs deeper and eventually you start to loose health as you walk.
+- You defeat the Vipers and the Chaos Demons and your sanity comes back.
+- You return to the **Valrath** merchant and he pays you for your efforts.
