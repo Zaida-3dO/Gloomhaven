@@ -38,6 +38,7 @@ Here’s a summary of your progress so far:
 | Echo      |   Human Voidwarden    |           Phillz |
 
 ## Story so far
+![image](https://github.com/Zaida-3dO/gloomhaven/assets/21037558/5752e24f-c8a9-4a9e-afe0-57d364872cad)
 
 ### Roadside Ambush (Scenario 1)
 - You are part of a group of mercenaries, known as the “Jaws of the Lion”.
@@ -116,4 +117,3 @@ Here’s a summary of your progress so far:
 - You defeat the Vipers and the Chaos Demons and your sanity comes back.
 - You return to the **Valrath** merchant and he pays you for your efforts.
 
-![image](https://github.com/Zaida-3dO/gloomhaven/assets/21037558/5752e24f-c8a9-4a9e-afe0-57d364872cad)
