@@ -25,7 +25,7 @@ Here’s a summary of your progress so far:
 - [ ] The Gauntlet (Scenario 10)
 
 ### Side quests scenarios
-- [x] [The Edge of Darkness (Scenario 21)](#the-edge-of-darkness-scenario-21)
+- [x] [Agents of Chaos (Scenario 21)](#agents-of-chaos-scenario-21)
 - [ ] Warding the Void (Scenario 24)
 - [ ] The Greatest job in the World (Scenario 25)
 
