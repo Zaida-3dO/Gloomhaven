@@ -22,7 +22,8 @@ Here’s a summary of your progress so far:
 - [x] [Sunken Tumor (Scenario 7)](#sunken-tumor-scenario-7)
 - [x] ~~[Hidden Tumor (Scenario 8)](#hidden-tumor-scenario-8)~~
 - [x] [Explosive Evolution (Scenario 9)](#explosive-evolution-scenario-9)
-- [ ] The Gauntlet (Scenario 10)
+- [x] The Gauntlet (Scenario 10)
+- [ ] Defiled Sewers (Scenario 11) 
 
 ### Side quests scenarios
 - [x] [Agents of Chaos (Scenario 21)](#agents-of-chaos-scenario-21)
