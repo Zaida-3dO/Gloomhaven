@@ -22,13 +22,17 @@ Here’s a summary of your progress so far:
 - [x] [Sunken Tumor (Scenario 7)](#sunken-tumor-scenario-7)
 - [x] ~~[Hidden Tumor (Scenario 8)](#hidden-tumor-scenario-8)~~
 - [x] [Explosive Evolution (Scenario 9)](#explosive-evolution-scenario-9)
-- [x] The Gauntlet (Scenario 10)
-- [ ] Defiled Sewers (Scenario 11) 
+- [x] [The Gauntlet (Scenario 10)](#the-gauntlet-scenario-10)
+- [x] [Defiled Sewers (Scenario 11)](#defiled-sewers-scenario-11)
+- [x] ~~[Beguiling Sewers (Scenario 12)](#beguiling-sewers-scenario-12)~~
+- [x] [Vile Harvest (Scenario 13)](#vile-harvest-scenario-13)
+- [ ] [Tainted Blood (Scenario 15)](#tainted-blood-scenario-15)
 
 ### Side quests scenarios
+- [ ] [Den of Thieves (Scenario 19)](#den-of-thieves-scenario-19)
 - [x] [Agents of Chaos (Scenario 21)](#agents-of-chaos-scenario-21)
-- [ ] Warding the Void (Scenario 24)
-- [ ] The Greatest job in the World (Scenario 25)
+- [x] [Warding the Void (Scenario 24)](#warding-the-void-scenario-24)
+- [ ] [The Greatest job in the World (Scenario 25)](#the-greatest-job-in-the-world-scenario-25)
 
 ## Character Details 
 | Name      |         Class         |           Player |
@@ -39,7 +43,7 @@ Here’s a summary of your progress so far:
 | Echo      |   Human Voidwarden    |           Phillz |
 
 ## Story so far
-![image](https://github.com/Zaida-3dO/gloomhaven/assets/21037558/5752e24f-c8a9-4a9e-afe0-57d364872cad)
+![image](./gloomhaven-map-july-6.png)
 
 ### Roadside Ambush (Scenario 1)
 - You are part of a group of mercenaries, known as the “Jaws of the Lion”.
