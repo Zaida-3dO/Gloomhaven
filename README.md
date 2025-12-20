@@ -29,10 +29,20 @@ Here’s a summary of your progress so far:
 - [ ] [Tainted Blood (Scenario 15)](#tainted-blood-scenario-15)
 
 ### Side quests scenarios
-- [ ] [Den of Thieves (Scenario 19)](#den-of-thieves-scenario-19)
+- [x] [Den of Thieves (Scenario 19)](#den-of-thieves-scenario-19)
 - [x] [Agents of Chaos (Scenario 21)](#agents-of-chaos-scenario-21)
 - [x] [Warding the Void (Scenario 24)](#warding-the-void-scenario-24)
 - [ ] [The Greatest job in the World (Scenario 25)](#the-greatest-job-in-the-world-scenario-25)
+
+## Up Next
+
+### Scenario 15: Tainted Blood (Main Quest) - RETRY
+**Story**: Roland's blood cult is poisoning Gloomhaven's water supply. You must destroy the alchemy tables and stop the infection before the city falls.
+**Type**: Objective destruction + combat. High spawn rate with Black Imps every round and chain-spawning Blood Imps when Zealots die. **Difficulty: Hard** - we already lost once.
+
+### Scenario 25: The Greatest Job in the World (Side Quest - Demolitionist)
+**Story**: The Demolitionist's personal quest - demolish a cursed building while fighting off angry spirits.
+**Type**: Destruction + escape. Collapse rooms by destroying pillars, but don't get caught in the rubble. Living Spirits can only die when rooms collapse. **Difficulty: Medium** - ANY character exhaustion = instant loss.
 
 ## Character Details 
 | Name      |         Class         |           Player |
@@ -43,7 +53,8 @@ Here’s a summary of your progress so far:
 | Echo      |   Human Voidwarden    |           Phillz |
 
 ## Story so far
-![image](./gloomhaven-map-july-6.png)
+![map](./gloomhaven-map-dec-10-2025.png)
+![flowchart](./gloomhaven-flowchart-dec-10-2025.png)
 
 ### Roadside Ambush (Scenario 1)
 - You are part of a group of mercenaries, known as the “Jaws of the Lion”.
@@ -102,6 +113,7 @@ Here’s a summary of your progress so far:
 ### Hidden Tumor (Scenario 8)
 - As you finish at the Sinking Market, you see the other blood tumor location go up in flames.
 - You were too late, the explosion is just the beginnins, you make your way to the Old Docks ASAP.
+- **CLOSED** - You had a choice between Scenario 7 (Sunken Tumor) and Scenario 8 (Hidden Tumor). Completing Scenario 7 closed this path.
 
 ### Explosive Evolution (Scenario 9)
 - You arrive at the scene of the explosion, and the tumor has evolved to a Blood Horror.
@@ -112,7 +124,54 @@ Here’s a summary of your progress so far:
 - They can mop up the rest of this stupid cult, and you can go back to actually getting paid to kill things.
 - As you walk toward the Sleeping Lion, dreaming of a hot bath, you remember a rumor about someone along the Hook Coast offering Gold to mercenaries, who would come and fight in his "gauntlet".
 
+### The Gauntlet (Scenario 10)
+- You travel to the Hook Coast, outside Gloomhaven's walls, to investigate a "gauntlet" built by a madman offering 10 gold to anyone who survives.
+- The entire platform is a giant deathtrap with moving traps that shift every round - some move downward and wrap around, others home in on characters.
+- When traps spring, they hit not just the triggering figure but all adjacent figures too.
+- You fight through Stone Golems, Chaos Demons, and Black Sludges.
+- At the end, you find Roland has fled, leaving a mocking note calling you "worthy opponents" but claiming you're still doomed like the rest of the city.
+- **Unlocks**: The city guard informs you of red-robed cultists in the sewers, unlocking Scenario 11 (Defiled Sewers) and Scenario 12 (Beguiling Sewers).
+
+### Defiled Sewers (Scenario 11)
+- You descend into the foul, submerged tunnels beneath the Sinking Market to track down the blood cult.
+- The sewers are filled with Black Sludges, Giant Vipers, and Vermlings, with your path blocked by a massive iron sluice gate.
+- To open the gate, you must pull a rusty lever - but doing so releases a torrent of water, turning the mission into a desperate survival race.
+- **Unique Mechanic**: If any character becomes exhausted, the entire scenario is immediately lost. The current forces every figure to move one hex downward each round.
+- After fighting through the flood and escaping to a higher platform, the water washes the remaining monsters away toward the bay.
+- **Reward**: Flea-Bitten Shawl (Item 28).
+- **Unlocks**: Scenario 13 (Vile Harvest) and Scenario 19 (Den of Thieves). Closes Scenario 12 (Beguiling Sewers).
+
+### Beguiling Sewers (Scenario 12)
+- **CLOSED** - You had a choice between Scenario 11 (Defiled Sewers) and Scenario 12 (Beguiling Sewers). Completing Scenario 11 closed this path.
+
+### Vile Harvest (Scenario 13)
+- After the flood recedes, you find a chamber filled with foul, dark red liquid where cultists are performing a ritual to grow "vile blood creatures" from black sludge.
+- You must shut down this "factory of revulsion" by engaging the cultists and their creations.
+- **Unique Mechanic**: Every other round, a Blood Imp spawns adjacent to a Black Sludge - this continues as long as that Black Sludge remains alive.
+- The cultists refuse to provide information on Roland, so your only choice is to press deeper into the blood-soaked tunnels.
+- **Unlocks**: Scenario 15 (Tainted Blood).
+
+### Tainted Blood (Scenario 15)
+- **STATUS: ATTEMPTED (1 LOSS)** - We tried this scenario once and failed.
+- Roland taunts you as you discover Zealots poisoning Gloomhaven's water supply with black liquid from alchemy tables.
+- A Zealot reveals that the "gift" from their Blood God is already infecting the city - everyone will soon be slaves.
+- **Objective**: Destroy all alchemy tables and kill all enemies.
+- **Unique Mechanics**:
+  - Black Imps spawn adjacent to each revealed alchemy table at the start of every round.
+  - When a Zealot dies, an elite Blood Imp spawns in its hex, plus normal Blood Imps spawn near all Zealots within Range 3.
+  - Locked doors only open once the three center alchemy tables are destroyed.
+- **Rewards** (when completed): 10 gold per character, Items 21-26 added to shop.
+- **Unlocks**: Scenario 16 (Mixed Results).
+
 ## Side Quests
+
+### Den of Thieves (Scenario 19)
+- You return to the tunnels connected to the sewers to deal with a Vermling infestation possibly linked to the blood cult.
+- Past the rusted lever from the previous sewer mission, you find an older network of passageways with savage creatures - matted fur and oozing growths.
+- **Objective**: Destroy all four Vermling nests and loot the treasure tiles that appear in their hexes.
+- **Unique Mechanic**: Nests have health based on scenario level and player count. When destroyed, a treasure tile appears that must be looted to complete the scenario.
+- You confirm a connection between the deformed rats, Vermlings, and the blood cult, but find no hard evidence on Roland.
+- **Reward**: Ring of Strength (Item 31).
 
 ### Agents of Chaos (Scenario 21)
 - You follow the directions of a merchant to some small warehouses in the district.
@@ -121,4 +180,29 @@ Here’s a summary of your progress so far:
 - The pain throbs deeper and eventually you start to loose health as you walk.
 - You defeat the Vipers and the Chaos Demons and your sanity comes back.
 - You return to the **Valrath** merchant and he pays you for your efforts.
+
+### Warding the Void (Scenario 24)
+- You accompany the Voidwarden to the southeastern edge of the Void - a violent storm of grating black sand.
+- The Voidwarden plants three magical wards to calm the winds, but the Void manifests creatures to destroy them.
+- **Objective**: Protect the three wards and kill all enemies.
+- **Unique Mechanics**:
+  - If any ward is destroyed, the scenario is lost. Characters can discard cards to negate ward damage.
+  - All hexes are black sand - ending a round there deals damage based on scenario level.
+  - If the Voidwarden becomes exhausted, the scenario is lost.
+  - Enemies spawn in waves after previous groups are defeated.
+- After surviving the onslaught, the Voidwarden stays behind to ensure the area remains stable.
+- **Reward**: Robes of Command (Item 35).
+
+### The Greatest Job in the World (Scenario 25)
+- The Demolitionist takes on a contract to destroy a derelict, potentially haunted building.
+- Rumors of a "curse" prove true - lingering spirits are determined to stop the demolition.
+- **Objective**: Destroy all pillars and escape the wreckage.
+- **Unique Mechanics**:
+  - Pillars have HP based on scenario level + player count.
+  - When all pillars in a room and its door are destroyed, that room collapses - destroyed hexes can't be entered.
+  - Characters in a destroyed room suffer 10 damage and must escape to the nearest non-destroyed hex.
+  - Living Spirits can only be killed when their room is destroyed.
+  - If any character becomes exhausted, the scenario is lost.
+- After leveling the building, the spirits dissipate and the foreman rewards the team.
+- **Reward**: Jet Boots (Item 36).
 
