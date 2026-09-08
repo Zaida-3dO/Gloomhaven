@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"Get-Content ''ghs-data-dump-2025-12-20T13_15_33.354Z.json'' | ConvertFrom-Json | ConvertTo-Json -Depth 1\")",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nDecember 2025 campaign update - scenarios 10-13, 15, 19, 24, 25\n\n- Added story summaries for scenarios 10-13 \\(The Gauntlet through Vile Harvest\\)\n- Added Scenario 15 \\(Tainted Blood\\) with ATTEMPTED status after 1 loss\n- Added side quest summaries: Den of Thieves \\(19\\), Warding the Void \\(24\\), The Greatest Job \\(25\\)\n- Marked closed scenarios \\(8, 12\\) with branching path notes\n- Added \"Up Next\" section showing available scenarios\n- Updated map and flowchart images\n- Marked Scenario 19 as complete\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git config:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}

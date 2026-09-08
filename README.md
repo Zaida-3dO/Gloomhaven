@@ -31,8 +31,9 @@ Here’s a summary of your progress so far:
 ### Side quests scenarios
 - [x] [Den of Thieves (Scenario 19)](#den-of-thieves-scenario-19)
 - [x] [Agents of Chaos (Scenario 21)](#agents-of-chaos-scenario-21)
+- [ ] [The Message (Scenario 22)](#the-message-scenario-22)
 - [x] [Warding the Void (Scenario 24)](#warding-the-void-scenario-24)
-- [ ] [The Greatest job in the World (Scenario 25)](#the-greatest-job-in-the-world-scenario-25)
+- [x] [The Greatest job in the World (Scenario 25)](#the-greatest-job-in-the-world-scenario-25)
 
 ## Up Next
 
@@ -40,17 +41,19 @@ Here’s a summary of your progress so far:
 **Story**: Roland's blood cult is poisoning Gloomhaven's water supply. You must destroy the alchemy tables and stop the infection before the city falls.
 **Type**: Objective destruction + combat. High spawn rate with Black Imps every round and chain-spawning Blood Imps when Zealots die. **Difficulty: Hard** - we already lost once.
 
-### Scenario 25: The Greatest Job in the World (Side Quest - Demolitionist)
-**Story**: The Demolitionist's personal quest - demolish a cursed building while fighting off angry spirits.
-**Type**: Destruction + escape. Collapse rooms by destroying pillars, but don't get caught in the rubble. Living Spirits can only die when rooms collapse. **Difficulty: Medium** - ANY character exhaustion = instant loss.
+### Scenario 22: The Message (Side Quest - Red Guard)
+**Story**: Wagner's personal quest. A message arrives from Jhinda, the homeland that exiled him - the people behind his exile have sent a golem made of living snakes to finish the job.
+**Type**: Protect + combat. A snake golem that continually spawns Giant Vipers, backed by Vermling archers. **Difficulty: Medium** - if the Red Guard is exhausted, the scenario is lost, and the vipers poison.
 
 ## Character Details 
-| Name      |         Class         |           Player |
-| :-------- | :-------------------: | ---------------: |
-| Carnation | Quatryl Demolitionist |              3dO |
-| Wagner    |   Valrath Red Guard   | Legbegbe+Mumetal |
-| Adeptus   |     Inox Hatchet      |             Gedo |
-| Echo      |   Human Voidwarden    |           Phillz |
+| Name      |         Class         | Level |           Player |
+| :-------- | :-------------------: | :---: | ---------------: |
+| Carnation | Quatryl Demolitionist |   7   |              3dO |
+| Wagner    |   Valrath Red Guard   |   7   | Legbegbe+Mumetal |
+| Adeptus   |     Inox Hatchet      |   6   |             Gedo |
+| Echo      |   Human Voidwarden    |   7   |           Phillz |
+
+*Party level 4. Levels as of the 2026-09-07 data dump.*
 
 ## Story so far
 ![map](./gloomhaven-map-dec-10-2025.png)
@@ -162,6 +165,10 @@ Here’s a summary of your progress so far:
   - Locked doors only open once the three center alchemy tables are destroyed.
 - **Rewards** (when completed): 10 gold per character, Items 21-26 added to shop.
 - **Unlocks**: Scenario 16 (Mixed Results).
+- **NOTE**: We just had a second loss here, playing with just 3 people. Here are a few things that can help the next time
+  - Make sure to destroy the alchemy tables as quickly as possible, as they spawn enemies faster than we can kill them.
+  - This level is better played with 4 people to rush in and desctroy the objectives asap.
+  - We need to bring in a lot of health cards, hight damage and healing cards are the secret also moving fast. 
 
 ## Side Quests
 
@@ -180,6 +187,17 @@ Here’s a summary of your progress so far:
 - The pain throbs deeper and eventually you start to loose health as you walk.
 - You defeat the Vipers and the Chaos Demons and your sanity comes back.
 - You return to the **Valrath** merchant and he pays you for your efforts.
+
+### The Message (Scenario 22)
+- **STATUS: UNLOCKED, NOT ATTEMPTED** - unlocked by a city event drawn while the Red Guard was in the party.
+- A message reaches Wagner from Jhinda, the homeland that exiled him - the ones who forced him out are not finished with him.
+- They send an assassin after him: a hulking golem built entirely out of writhing, living snakes, escorted by Vermling archers.
+- **Objective**: Kill all enemies. The Red Guard must survive.
+- **Unique Mechanics**:
+  - The snake golem sheds new Giant Vipers every round, keeping the board topped up with them.
+  - The vipers are individually weak but they poison, which stacks up fast across a long fight.
+  - If the Red Guard becomes exhausted, the scenario is lost.
+- **Reward**: TBD - not yet recorded.
 
 ### Warding the Void (Scenario 24)
 - You accompany the Voidwarden to the southeastern edge of the Void - a violent storm of grating black sand.
@@ -204,5 +222,6 @@ Here’s a summary of your progress so far:
   - Living Spirits can only be killed when their room is destroyed.
   - If any character becomes exhausted, the scenario is lost.
 - After leveling the building, the spirits dissipate and the foreman rewards the team.
+- **STATUS: COMPLETED** - Jet Boots (Item 36) claimed; both Carnation and Adeptus are now wearing a pair.
 - **Reward**: Jet Boots (Item 36).
 
